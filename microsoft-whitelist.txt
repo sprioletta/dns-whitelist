@@ -1,0 +1,9 @@
+activity.windows.com       
+login.microsoftonline.com    
+api.authentication.microsoftonline.com  
+graph.microsoft.com         
+secure.aadcdn.microsoftonline-p.com  
+msauth.microsoft.com        
+msocdn.com                  
+self.events.data.microsoft.com   
+mobile.events.data.microsoft.com
